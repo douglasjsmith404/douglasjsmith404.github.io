@@ -1,2 +1,2 @@
-<h1>Hello and welcome to my site!</h1>
-<a href="/about">About my site</a>
+<h1>home</h1>
+<p>this is the home page.</p>
