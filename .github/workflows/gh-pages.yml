@@ -20,6 +20,12 @@ jobs:
         with:
           node-version: 14
 
+      - name: Install dependencies      
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
  #    - name: Install dependencies and build
  #       uses: importantimport/.github/blob/main/.github/workflows/pnpm-gh-pages.yml
  #       uses: importantimport/.github/.github/workflows/pnpm-gh-pages.yml@main
@@ -30,4 +36,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: build
+          publish_dir: ./build
