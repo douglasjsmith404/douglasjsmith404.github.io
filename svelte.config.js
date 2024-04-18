@@ -7,8 +7,8 @@ const config = {
 			fallback: '404.html'
 		}),
 		paths: {
-			base: '/',
-      assets: '/'
+			base: '',
+      assets: ''
 		}
 	}
 };
