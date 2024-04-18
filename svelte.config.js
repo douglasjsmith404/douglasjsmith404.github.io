@@ -7,8 +7,8 @@ const config = {
 			fallback: '404.html'
 		}),
 		paths: {
-			base: '/douglasjsmith404.github.io',
-      assets: '/douglasjsmith404.github.io'
+			base: '/',
+      assets: '/'
 		}
 	}
 };
