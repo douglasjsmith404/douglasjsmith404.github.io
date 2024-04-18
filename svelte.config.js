@@ -1,13 +1,15 @@
 import adapter from '@sveltejs/adapter-static';
 
+/** @type {import('@sveltejs/kit').Config} */
 const config = {
-  kit: {
-    adapter: adapter(),
-    paths: {
-      base: '/douglasjsmith404.github.io', // replace 'repo-name' with your repository name
-      assets: '/douglasjsmith404.github.io', // replace 'repo-name' with your repository name
-    },
-  },
+	kit: {
+		adapter: adapter({
+			fallback: '404.html'
+		}),
+		paths: {
+			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
+		}
+	}
 };
 
 export default config;
