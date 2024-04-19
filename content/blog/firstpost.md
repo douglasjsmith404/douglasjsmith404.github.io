@@ -1,9 +1,16 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: This is my 8thone-eighth8post 11ty 8Xtimes
+description: WIP-This is a post on My Blog about agile frameworks *NOT*.
+date: 2024-04-19
 tags:
-  - another tag
+  - solidproject
+  - sveltekit 
+  - worldwideweb
+  - indieweb
+  - 11ty
+  - updateyourfuckingblog
+
+  - 
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
