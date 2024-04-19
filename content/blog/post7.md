@@ -1,6 +1,6 @@
 ---
-title: post7-setting up this github.io static-site WIP.
-description: setting up this github.io static-site.
+title: post7-setting up a github.io static-site WIP.
+description: setting up a github.io static-site WIP.
 date: 2024-04-17
 tags:
   - second tag
