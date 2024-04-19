@@ -1,6 +1,6 @@
 ---
-title: post6-github.io static-site using 'sveltejs'.
-description: setting up this github.io static-site.
+title: post6-using 11ty for douglasjsmith404.com.
+description: setting up this site.
 date: 2024-04-17
 tags:
   - second tag
