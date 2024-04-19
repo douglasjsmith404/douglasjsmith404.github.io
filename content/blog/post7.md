@@ -24,7 +24,7 @@ Use the `npx` command to initialize a new SvelteKit project:
 ```bash
 npx degit @sveltejs/kit my-sveltekit-app
 cd my-sveltekit-app
-```
+```a
 
 Replace `my-sveltekit-app` with your desired project name.
 
