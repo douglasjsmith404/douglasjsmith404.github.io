@@ -1,5 +1,5 @@
 ---
-title: post7-setting up this github.io static-site.
+title: post7-setting up this github.io static-site WIP.
 description: setting up this github.io static-site.
 date: 2024-04-17
 tags:
@@ -13,7 +13,7 @@ Svelte is a new way to build web applications. It's a compiler that takes your d
 
 Imagine building web apps that are blazing fast, super small, and a breeze to code. That's SvelteKit! Compared to React, it compiles code down to tiny vanilla JavaScript, ditching the virtual DOM for smooth performance. Plus, you write less code overall, thanks to its familiar HTML, CSS, and JavaScript approach. Ideal for small projects or when speed is king.
 
-## how i set up a github.io static-site using sveltekit.
+## how i set up a github.io static-site using sveltejs WIP.
 
 Here's a breakdown of setting up a GitHub Pages static site using SvelteKit:
 
