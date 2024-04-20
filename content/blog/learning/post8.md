@@ -37,4 +37,4 @@ Thanks Copilot!
 
 ## Section Header
 
-![random](avatarRodent.png)
+![random2](avatarRodent.png)
