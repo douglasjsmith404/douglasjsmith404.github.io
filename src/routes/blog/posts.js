@@ -32,15 +32,8 @@ export const posts = [
 		title: 'Portabella Mushrooms',
 		content: '<p>Portabella mushrooms are the best mushrooms in the world!</p>' 
     },
-	{
-		slug: 'cake',
-		title: 'This was a triumph',
-		content: "<p>I'm making a note here: HUGE SUCCESS.</p>"
-	},
-	{
-		slug: 'cake',
-		title: 'This was a triumph',
-		content: "<p>I'm making a note here: HUGE SUCCESS.</p>"
-	},
+
 
 ];
+
+// Path: src/routes/blog/[slug].svelte  copilot random code.
