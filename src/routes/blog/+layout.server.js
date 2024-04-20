@@ -1,4 +1,4 @@
-import { posts } from './data.js';
+import { posts } from "./posts.js";
 
 export function load() {
 	return {
