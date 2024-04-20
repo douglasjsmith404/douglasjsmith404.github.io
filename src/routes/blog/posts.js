@@ -28,7 +28,9 @@ export const posts = [
 		content: '<p>Now you are thinking with portals!</p>'
 	},
 	{
-		slug: 
+		slug: 'mushrooms',
+		title: 'Portabella Mushrooms',
+		content: '<p>Portabella mushrooms are the best mushrooms in the world!</p>' 
     },
 	{
 		slug: 'cake',
@@ -40,50 +42,5 @@ export const posts = [
 		title: 'This was a triumph',
 		content: "<p>I'm making a note here: HUGE SUCCESS.</p>"
 	},
-	{
-		slug: 'cake',
-		title: 'This was a triumph',
-		content: "<p>I'm making a note here: HUGE SUCCESS.</p>"
-	},
-	{
-		slug: 'cake',
-		title: 'This was a triumph',
-		content: "<p>I'm making a note here: HUGE SUCCESS.</p>"
-	},
-	{
-		slug: 'cake',
-		title: 'This was a triumph',
-		content: "<p>I'm making a note here: HUGE SUCCESS.</p>"
-	},
-	{
-		slug: 'cake',
-		title: 'This was a triumph',
-		content: "<p>I'm making a note here: HUGE SUCCESS.</p>"
-	},
-	{
-		slug: 'cake',
-		title: 'This was a triumph',
-		content: "<p>I'm making a note here: HUGE SUCCESS.</p>"
-	},
-	{
-		slug: 'cake',
-		title: 'This was a triumph',
-		content: "<p>I'm making a note here: HUGE SUCCESS.</p>"
-	},
-	{
-		slug: 'cake',
-		title: 'This was a triumph',
-		content: "<p>I'm making a note here: HUGE SUCCESS.</p>"
-	},
-	{
-		slug: 'cake',
-		title: 'This was a triumph',
-		content: "<p>I'm making a note here: HUGE SUCCESS.</p>"
-	},
 
-	{
-		slug: 'cake',
-		title: 'This was a triumph',
-		content: "<p>I'm making a note here: HUGE SUCCESS.</p>"
-	}
 ];
