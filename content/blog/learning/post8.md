@@ -15,7 +15,8 @@ tags:
 
 ## proton
 
-by GitHub Copilot
+by GitHub Copilot 
+
 ProtonMail is an email service that prioritizes privacy and security. It uses end-to-end encryption, meaning that your emails are encrypted on your device before they ever reach ProtonMail servers. This ensures that even if someone were to intercept your email, they would not be able to read its contents. Only the recipient, with the correct decryption key, can read the email.
 
 End-to-end encryption works like this:
