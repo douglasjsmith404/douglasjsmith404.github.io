@@ -7,6 +7,20 @@ export const posts = [
 	},
 
 	{
+		slug: 'cake',
+		title: 'The cake is a lie',
+		content:
+			'<p>They told me that if I ever turned this flashlight on, I would die! They told me that about everything!</p>'		
+	},
+
+	{
+		slug: 'pizza pie',
+		title: 'my-pizza pie',
+		content: '<p>My pizza pie is the best pizza pie in the world!</p>'
+
+	},
+
+	{
 		slug: 'safety',
 		title: 'Safety notice',
 		content:
