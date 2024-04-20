@@ -1,5 +1,5 @@
 ---
-title: This is the 8th or 9th-one-nineth-one9th-post 11ty 9Xtimes
+title: Post 8
 description: proton web service is a post on My Blog about agile frameworks *NOT*.
 date: 2024-04-19
 tags:
@@ -37,4 +37,4 @@ Thanks Copilot!
 
 ## Section Header
 
-![random2](avatarRodent.png)
+![Profile Picture](/img/avatarRodent2.png)
