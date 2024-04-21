@@ -4,8 +4,7 @@ description: everyting.
 date: 2024-04-20
 tags: indieweb
 ---
-
-
+![indieweb](https://indieweb.org/img/indiewebcamp-logo-lockup-color@1x.png)
 nice article about learning as a way of life
 https://kiko.io/post/Rising-Cyberspear/  webmention
 
@@ -47,6 +46,7 @@ If you're interested in learning more, here are some helpful resources:
 - [douglasjsmith404.com_indieweb](https://indieweb.org/User:Douglasjsmith404.com_indieweb)
 - [stream.indieweb.org](https://stream.indieweb.org/)
 - [discussions github/repo](https://github.com/douglasjsmith404/douglasjsmith404.github.io/discussions/) 
+<link rel="webmention" href="https://webmention.io/douglasjsmith404.com/webmention" />
 
 
 ## Webmentions
@@ -60,18 +60,7 @@ If you're interested in learning more, here are some helpful resources:
 
 [another test to kwaa-dev.](https://kwaa-dev.translate.goog/indieweb?_x_tr_sl=auto&_x_tr_tl=en-US&_x_tr_hl=en-US)
 
-## h-card
-
-<div class="h-card">
-  <a class="p-name u-url"
-     href="https://douglasjsmith404.com/indieweb" 
-    >douglasjsmith404</a> 
-  <a class="p-org h-card" 
-     href="https://indieweb.org/"
-     >IndieWeb</a>
-  <img class="u-photo" src="/assets/me.png"/>
-  <div class="p-country-name">living in the USA</div>
-</div>
+![webmention.io](https://webmention.io/douglasjsmith404.com/webmention)
 
 
 
@@ -82,3 +71,5 @@ Just set up an account on indieweb.org and joined the [discussions here](https:/
 What is 'Indieweb'? It is a community of people who are building their own websites and tools to share and interact with each other. The goal is to create a decentralized web where everyone has control over their own data and can interact with others without relying on centralized platforms.
 
 Why is this important? I believe that the indieweb movement is important because it gives people more control over their online presence and data. It also encourages people to learn more about how the web works and how to build their own tools and services. I am excited to learn more about it.
+
+![birth-rates](https://www.pewresearch.org/wp-content/uploads/sites/3/2018/01/PSDT_1.18.18_motherhood-lede-new-00.png)

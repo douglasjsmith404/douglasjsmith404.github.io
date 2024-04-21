@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 # About Me
 
-beginner blogger and learner.
+begining blogger and learner.
 
 ![Profile Picture](/img/11ty-avatar-possum.png)
 
