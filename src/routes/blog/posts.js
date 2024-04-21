@@ -31,7 +31,7 @@ export const posts = [
 		slug: 'mushrooms',
 		title: 'Portabella Mushrooms',
 		content: '<p>Portabella mushrooms are the best mushrooms in the world!</p>' 
-    },
+  }
 
 
 ];
