@@ -84,7 +84,7 @@ Here are some helpful resources for further guidance:
 SvelteKit deployment guide: https://kit.svelte.dev/docs/building-your-app
 How to deploy a SvelteKit website to GitHub Pages: https://medium.com/mkdir-awesome/two-easy-ways-to-publish-your-svelte-project-on-github-pages-c8eaca2b6225
 
-[my repos](https://github.com/douglasjsmith/)
+[my repos](https://github.com/douglasjsmith404/)
 
-[this repo](https://github.com/douglassmith404)
+[this repo](https://github.com/douglasjsmith404)
 
