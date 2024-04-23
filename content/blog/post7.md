@@ -86,5 +86,5 @@ How to deploy a SvelteKit website to GitHub Pages: https://medium.com/mkdir-awes
 
 [my repos](https://github.com/douglasjsmith404/)
 
-[this repo](https://github.com/douglasjsmith404)
+[this repo](https://github.com/douglasjsmith404/eleventy-base-blog)
 
