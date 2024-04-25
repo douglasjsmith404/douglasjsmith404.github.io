@@ -60,7 +60,7 @@ If you're interested in learning more, here are some helpful resources:
 
 [another test to kwaa-dev.](https://kwaa-dev.translate.goog/indieweb?_x_tr_sl=auto&_x_tr_tl=en-US&_x_tr_hl=en-US)
 
-![webmention.io](https://webmention.io/douglasjsmith404.com/webmention)
+![webmention.i](https://webmention.io/douglasjsmith404.com/webmention)
 
 
 
@@ -71,5 +71,5 @@ Just set up an account on indieweb.org and joined the [discussions here](https:/
 What is 'Indieweb'? It is a community of people who are building their own websites and tools to share and interact with each other. The goal is to create a decentralized web where everyone has control over their own data and can interact with others without relying on centralized platforms.
 
 Why is this important? I believe that the indieweb movement is important because it gives people more control over their online presence and data. It also encourages people to learn more about how the web works and how to build their own tools and services. I am excited to learn more about it.
-
+Why not join the [IndieWebCamp](https://indieweb.org/IndieWebCamp) and start building your own website today?
 ![birth-rates](https://www.pewresearch.org/wp-content/uploads/sites/3/2018/01/PSDT_1.18.18_motherhood-lede-new-00.png)
