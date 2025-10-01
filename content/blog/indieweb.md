@@ -60,7 +60,7 @@ If you're interested in learning more, here are some helpful resources:
 
 [another test to kwaa-dev.](https://kwaa-dev.translate.goog/indieweb?_x_tr_sl=auto&_x_tr_tl=en-US&_x_tr_hl=en-US)
 
-![webmention.i](https://webmention.io/douglasjsmith404.com/webmention)
+![webmention.io](https://webmention.io/douglasjsmith404.com/webmention)
 
 
 
